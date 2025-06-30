@@ -1,1 +1,3 @@
 # sillyfinder
+
+![pcb](sillyfinder.png)
